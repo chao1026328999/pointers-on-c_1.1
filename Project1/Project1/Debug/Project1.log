@@ -1,0 +1,17 @@
+﻿生成启动时间为 2022/3/12 23:31:46。
+     1>项目“E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\任勇超\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 1.1.c
+         1.1.c
+     1>e:\测控技术与仪器任勇超\c\c和指针\pointers-on-c_1.1\project1\project1\1.1.c(22): warning C4047: “函数”:“char **”与“char [1000]”的间接级别不同
+     1>e:\测控技术与仪器任勇超\c\c和指针\pointers-on-c_1.1\project1\project1\1.1.c(22): warning C4024: “rearrange”: 形参和实参 1 的类型不同
+     1>e:\测控技术与仪器任勇超\c\c和指针\pointers-on-c_1.1\project1\project1\1.1.c(61): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+     1>e:\测控技术与仪器任勇超\c\c和指针\pointers-on-c_1.1\project1\project1\1.1.c(61): warning C4024: “strncpy”: 形参和实参 1 的类型不同
+       Link:
+         D:\任勇超\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\1.1.obj
+         Project1.vcxproj -> E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Debug\Project1.exe
+     1>已完成生成项目“E:\测控技术与仪器任勇超\C\C和指针\pointers-on-c_1.1\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.05
